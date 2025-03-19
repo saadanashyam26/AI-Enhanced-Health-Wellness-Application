@@ -97,6 +97,15 @@ This project was developed as part of **BCIS 5140 - AI in Business**, under the 
 - Ensured **authentication and secure API calls** for OpenAI integration.  
 
 ---
+![image](https://github.com/user-attachments/assets/d3ccda8a-0495-48c4-901c-76160d62bcd8)
+![image](https://github.com/user-attachments/assets/f6e5f2da-8e39-421b-87ef-5a8530e42a2e)
+![image](https://github.com/user-attachments/assets/40b5d2af-60b0-48e7-bcd0-7f5b895c5d95)
+![image](https://github.com/user-attachments/assets/ad1f6853-354a-4bc8-8d6f-8014a27f9ff2)
+![image](https://github.com/user-attachments/assets/42b2415e-3a76-44fa-9751-c2e9048e6216)
+
+
+
+
 
 
 
